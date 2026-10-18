@@ -14,8 +14,9 @@ We build tools like these in-house so a small team can punch well above its weig
 ## The Team
 
 - **Caleb Cody:** Founder and CEO ([@realcalebcody](https://github.com/realcalebcody))
-- **Mollie Huebner:** Operations Manager and Creative Director
-- **Julio Aleman:** Lead Developer and AI Engineer ([@julioFON](https://github.com/julioFON))
+- **Julio Aleman:** Founding Developer ([@julioFON](https://github.com/julioFON))
+- **Mollie Huebner:** Co-founder, Creative Director
+- **Payton Monzon:** Operations Manager
 
 ## Recognition
 
